@@ -2,3 +2,6 @@
 .ipynb_checkpoints
 # images
 *.png
+#building and packaging artifacts
+_pycache_
+*.egg-info
